@@ -1,0 +1,11 @@
+/* セレクタ {
+  プロパティ: 値;
+  プロパティ: 値;
+} */
+
+/* 例: ボタンのスタイルを変更する */
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+}
